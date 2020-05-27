@@ -55,7 +55,7 @@ let node = TreeNode(val: 3, trees: [
 
 `$ swift run`
 
-[main.swift](Sources/main.swift)를 보시면 p는 6, q는 9일 때 parent tree를 찾도록 되어 있습니다. 답은 5가 나옵니다.
+[main.swift](Sources/tree_solution/main.swift)를 보시면 p는 6, q는 9일 때 parent tree를 찾도록 되어 있습니다. 답은 5가 나옵니다.
 
 ## 그림으로 표현
 
