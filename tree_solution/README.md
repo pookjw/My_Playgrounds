@@ -1,4 +1,4 @@
-# interview_solution
+# tree_solution
 
 오늘 면접에서 주신 문제는 아래와 같았습니다.
 
