@@ -51,6 +51,8 @@ public class Solution {
         for tmp in 0..<min_length {
             if p[tmp] == q[tmp] {
                 result.append(p[tmp])
+            } else {
+            	break
             }
         }
 
